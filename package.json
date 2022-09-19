@@ -1,0 +1,16 @@
+{
+  "name": "mfk",
+  "version": "1.0.0",
+  "description": "This is the best package i have ever seen",
+  "main": "app.js",
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "author": "Ashiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
